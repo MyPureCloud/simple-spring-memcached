@@ -55,7 +55,7 @@
 			<artifactId>maven-plugin-api</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.thimbleware.jmemcached</groupId>
+			<groupId>com.inin.jmemcached</groupId>
 			<artifactId>jmemcached-core</artifactId>
                         <version>1.0.2</version>
 		</dependency>
