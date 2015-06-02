@@ -65,6 +65,19 @@
 		<url>https://ragnor.ci.cloudbees.com/</url>
 	</ciManagement>
 
+    <distributionManagement>
+        <repository>
+            <id>inin-release</id>
+            <name>ININ Release Repository</name>
+            <url>https://purecloud.artifactoryonline.com/purecloud/inin-release</url>
+        </repository>
+        <snapshotRepository>
+            <id>inin-snapshot</id>
+            <name>ININ Snapshot Repository</name>
+            <url>https://purecloud.artifactoryonline.com/purecloud/inin-snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
+
 	<modules>
 		<module>simple-spring-memcached</module>
 		<module>integration-test</module>
