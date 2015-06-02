@@ -70,7 +70,7 @@
 		<module>integration-test</module>
 		<module>xmemcached-provider</module>
 		<module>spymemcached-provider</module>
-		<module>aws-elasticache-provider</module>
+<!--		<module>aws-elasticache-provider</module> -->
 		<module>spring-cache</module>
 		<module>spring-cache-integration-test</module>
 		<module>jmemcached-maven-plugin</module>
